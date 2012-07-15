@@ -1,2 +1,2 @@
-first version of README.
+first version of README.md
 second version of README.
